@@ -2,7 +2,7 @@
 
 This repository contains a bibliometric analysis pipeline for "Astrotourism". This README documents every output the pipeline produces, the provenance (how each file is generated), required inputs, software environment and package recommendations, and instructions to reproduce the outputs exactly (or approximately) for archiving on GitHub / Zenodo.
 
-If you plan to archive this repository on Zenodo, include this README (and a CITATION.cff or a plain citation file) in the deposit so users can trace provenance and reproduce the results.
+To archive this repository on Zenodo, include this README (and a CITATION.cff or a plain citation file) in the deposit so users can trace provenance and reproduce the results.
 
 ---
 
