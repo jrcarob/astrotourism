@@ -1,6 +1,6 @@
-# Astrotourism — Reproducible pipeline outputs and provenance
+# STBM analysis of Astrotourism — Reproducible pipeline outputs and provenance
 
-This repository contains a bibliometric analysis pipeline for "Astrotourism". This README documents every output the pipeline produces, the provenance (how each file is generated), required inputs, software environment and package recommendations, and instructions so users can trace provenance and reproduce the results and the outputs exactly (or approximately).
+This repository contains a bibliometric analysis pipeline for "Astrotourism" based on the Semantic-Theme Bibliometric Mapping (STBM) approach. This README documents every output the pipeline produces, the provenance (how each file is generated), required inputs, software environment and package recommendations, and instructions so users can trace provenance and reproduce the results and the outputs exactly (or approximately).
 
 ---
 
